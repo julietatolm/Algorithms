@@ -49,9 +49,6 @@ public class QuickSort {
         System.out.println(Arrays.toString(array));
     }
 
-//    Почитать MergeSort VS QuickSort
-//
-//    Second level: 2. Отсортировать стрингу use QuickSort
 
 
 
