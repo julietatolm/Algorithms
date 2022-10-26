@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25388e4a-a4b8-4b1b-afc2-a332d4976317" name="Changes" comment="">
+    <list default="true" id="25388e4a-a4b8-4b1b-afc2-a332d4976317" name="Changes" comment="update homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_11_outSearcher/FileSearchear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_11_outSearcher/OutSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_19/hw/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_19/hw/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_19/hw/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/class_10_25/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hw10_04/QuickSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hw10_04/QuickSortString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +48,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSortString">
-    <configuration name="Class08_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.class08_30.Class08_30" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.class_10_19.hw.Task3" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.class08_30.*" />
+          <option name="PATTERN" value="org.class_10_19.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.class_10_04_quickSort.QuickSort" />
+    <configuration name="org.class_10_19.KMP_extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.class_10_19.KMP_extra" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.class_10_04_quickSort.*" />
+          <option name="PATTERN" value="org.class_10_19.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw10_04.QuickSortString" />
+    <configuration name="org.class_10_19.StringRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.class_10_19.StringRandom" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hw10_04.*" />
+          <option name="PATTERN" value="org.class_10_19.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpaceComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw08_23.SpaceComplexity" />
+    <configuration name="org.class_10_19.hw.CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.class_10_19.hw.CamelCase" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hw08_23.*" />
+          <option name="PATTERN" value="org.class_10_19.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.hw10_04.QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw10_04.QuickSort" />
+    <configuration name="org.class_10_19.hw.KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.class_10_19.hw.KMP" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hw10_04.*" />
+          <option name="PATTERN" value="org.class_10_19.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSortString" />
-        <item itemvalue="Application.org.hw10_04.QuickSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Class08_30" />
-        <item itemvalue="Application.SpaceComplexity" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.org.class_10_19.hw.CamelCase" />
+        <item itemvalue="Application.org.class_10_19.StringRandom" />
+        <item itemvalue="Application.org.class_10_19.hw.KMP" />
+        <item itemvalue="Application.org.class_10_19.KMP_extra" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +138,12 @@
       <workItem from="1665072367458" duration="805000" />
       <workItem from="1665332618553" duration="34000" />
       <workItem from="1665408093390" duration="6465000" />
-      <workItem from="1665422559417" duration="9390000" />
+      <workItem from="1665422559417" duration="9549000" />
+      <workItem from="1665477964040" duration="2560000" />
+      <workItem from="1666650289771" duration="1806000" />
+      <workItem from="1666693336712" duration="1065000" />
+      <workItem from="1666705603608" duration="17156000" />
+      <workItem from="1666797031579" duration="6627000" />
     </task>
     <task id="LOCAL-00001" summary="update homework">
       <created>1661804077512</created>
@@ -156,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665434637889</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update homework">
+      <created>1665440502390</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665440502392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +201,10 @@
           <line>45</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
